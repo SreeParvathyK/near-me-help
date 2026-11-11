@@ -1,0 +1,17 @@
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\bin\Debug\net10.0\LocalService.Infrastructure.deps.json
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\bin\Debug\net10.0\LocalService.Infrastructure.dll
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\bin\Debug\net10.0\LocalService.Infrastructure.pdb
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\bin\Debug\net10.0\LocalService.Application.dll
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\bin\Debug\net10.0\LocalService.Domain.dll
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\bin\Debug\net10.0\LocalService.Application.pdb
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\bin\Debug\net10.0\LocalService.Domain.pdb
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\LocalService.Infrastructure.dll
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\refint\LocalService.Infrastructure.dll
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\LocalService.Infrastructure.pdb
+C:\Z_HP Project\SreeParvathy\src\Infrastructure\obj\Debug\net10.0\ref\LocalService.Infrastructure.dll
