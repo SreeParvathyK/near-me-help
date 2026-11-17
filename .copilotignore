@@ -1,0 +1,50 @@
+# Git and version control
+.git/
+.gitignore
+.gitmodules
+
+# Build artifacts and intermediate files
+bin/
+obj/
+build/
+dist/
+
+# IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+
+# NuGet and package management
+packages/
+.nuget/
+*.nupkg
+*.snupkg
+
+# Generated and temporary files
+*.log
+*.tmp
+.cache/
+coverage/
+coverage-results/
+
+# Node/frontend artifacts (if applicable)
+node_modules/
+dist/
+.next/
+out/
+
+# Sensitive configuration
+*.env
+*.env.local
+user-secrets.json
+appsettings.local.json
+
+# Third-party and vendor code
+vendor/
+
+# OS-specific files
+Thumbs.db
+.DS_Store

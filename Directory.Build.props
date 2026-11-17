@@ -1,0 +1,27 @@
+﻿
+<!-- See https://aka.ms/dotnet/msbuild/customize for more details on customizing your build -->
+<Project>
+  <PropertyGroup>
+    <!-- Target Framework -->
+    <TargetFramework>net10.0</TargetFramework>
+
+    <!-- Build Quality -->
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningsNotAsErrors>NU3042</WarningsNotAsErrors>
+
+    <!-- Language Configuration -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <InvariantGlobalization>true</InvariantGlobalization>
+
+    <!-- Assembly and Namespace -->
+    <AssemblyName>LocalService.$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>LocalService.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+
+    <!-- CI/CD Configuration -->
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(TF_BUILD)' == 'true'">
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+  </PropertyGroup>
+</Project>
